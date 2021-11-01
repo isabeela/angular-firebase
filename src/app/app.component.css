@@ -5,6 +5,12 @@ p {
 .login {
   padding: 20px;
 }
+
+legend {
+  font-size: 1.3rem;
+  text-align: center;
+}
+
 button {
   border: none;
   cursor: pointer;
